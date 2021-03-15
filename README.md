@@ -1,2 +1,0 @@
-# PlatziVideo
-CursoEscuelaJS_Platzi
