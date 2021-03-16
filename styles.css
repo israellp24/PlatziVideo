@@ -126,3 +126,15 @@ body {
 .footer a:hover {
   text-decoration: underline; 
 }
+.login__container--sesion{
+  text-align: center;
+}
+.login__container--sesion a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Muli', sans-serif;  
+  font-weight: bold;
+}
+.login__container--sesion a:hover{
+  text-decoration: underline;
+}
